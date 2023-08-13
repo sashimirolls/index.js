@@ -1,6 +1,6 @@
 const CHAT_BUTTON_WIDTH = 120; // width of the chat button in pixels
 const CHAT_BUTTON_HEIGHT = 50; // height of the chat button in pixels
-const CHAT_BUTTON_BACKGROUND_COLOR = '#333'; // darker background color for contrast
+const CHAT_BUTTON_BACKGROUND_COLOR = 'red'; // darker background color for contrast
 const CHAT_BUTTON_BORDER_RADIUS = '15px'; // rounded edges for the rectangle
 
 const CHAT_BUTTON_ICON = `
